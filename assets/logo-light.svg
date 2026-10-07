@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="plainwrite">
+  <path d="M30 16h68a18 18 0 0 1 18 18v42a18 18 0 0 1-18 18H58l-22 18v-18h-6a18 18 0 0 1-18-18V34a18 18 0 0 1 18-18z" fill="#1C1C1E"/>
+  <line x1="34" y1="40" x2="94" y2="40" stroke="#D9483B" stroke-width="8" stroke-linecap="round"/>
+  <line x1="34" y1="56" x2="84" y2="56" stroke="#F7F5F0" stroke-width="8" stroke-linecap="round"/>
+  <line x1="34" y1="72" x2="64" y2="72" stroke="#F7F5F0" stroke-width="8" stroke-linecap="round"/>
+</svg>

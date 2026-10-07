@@ -5,7 +5,7 @@
 - 任务:中文写作规范套件,原名 renhua,2026-10-06 推倒重写,10-07 改名并改成纯上下文 skill。
 - 形式:几份 md。根目录 `SKILL.md` 是入口,整个目录链接到 `~/.claude/skills/plainwrite`。第一版只在作者本机的 git 标签 `v1-final` 里,不在公开仓库。
 - 授权边界:**不挂任何自动触发,不交互**。不加钩子,不在 CLAUDE.md 加指引,写完不另起试读回合,不来回问作者。要用时由他说「用人话」或 `/plainwrite`。
-- 仓库:GitHub `Longado/plainwrite`。
+- 仓库:GitHub `Longado/plainwrite`,公开。
 - 要作者做的:目前没有。
 - 参照的标准:`标准/README.md`。为什么这样设计:`DESIGN.md`。
 

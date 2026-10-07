@@ -1,3 +1,2 @@
 __pycache__/
-.judge-hook-off
-evals/results/
+.DS_Store
